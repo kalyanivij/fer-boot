@@ -10,6 +10,8 @@ public class Application {
 	System.out.println("git");
 	
 	System.out.println("git1");
+	System.out.println("1");
+	System.out.println("2");
 	}
 
 }
