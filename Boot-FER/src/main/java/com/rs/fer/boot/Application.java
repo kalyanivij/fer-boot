@@ -9,6 +9,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	System.out.println("git");
 	
+	System.out.println("git1");
 	}
 
 }
